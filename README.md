@@ -33,4 +33,4 @@ void setup() {
 }
 ```
 ## Gratitude
-NKros\
+NKros
