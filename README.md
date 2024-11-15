@@ -33,8 +33,8 @@ void setup() {
 }
 ```
 ## Gratitude
-NKros
-stimmer
-FabGL
-bitluni
+NKros\
+stimmer\
+FabGL\
+bitluni\
 starling13
