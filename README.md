@@ -22,7 +22,6 @@ The connector pins can be found here: https://en.wikipedia.org/wiki/VGA_connecto
 <br />
 <br />
 You can reassign any pins yourself, but keep in mind that some ESP32-S3 pins may already be occupied by something else.\
-<br />
 
 ## Usage
 ```
